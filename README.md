@@ -50,6 +50,6 @@ python password.py
 
 📄 LICENSE      — MIT open source license
 
-📜 License
+## 📜 License
 
 This project is licensed under the **MIT license**.
