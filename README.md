@@ -1,6 +1,6 @@
 # 🔐 PassBox
 
-PassBox is a simple Python program featuring basic password encryption logic. The primary aim of this project is to demonstrate how to safely store, protect, or validate a user password using simple algorithms.
+PassBox is a simple Python program featuring basic password encryption logic. The primary aim of this project is to safely store, protect, or validate a user password using simple algorithms.
 
 ## 🧠 What It Does
 
