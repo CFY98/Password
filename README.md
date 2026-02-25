@@ -1,8 +1,6 @@
 # 🔐 Password
 
-Password is a simple Python program featuring basic password encryption logic — ideal for learning about secure password handling and beginner-level Python scripting.
-
-The primary aim of this project is to demonstrate how to safely store, protect, or validate a user password using simple algorithms, with a focus on clarity and educational value.
+Password is a simple Python program featuring basic password encryption logic. The primary aim of this project is to demonstrate how to safely store, protect, or validate a user password using simple algorithms.
 
 ## 🧠 What It Does
 
@@ -13,8 +11,6 @@ This project includes:
 🔐 Simple encryption logic — demonstrating how to protect passwords
 
 🐍 Beginner-friendly code suitable for learning purposes
-
-It’s not a full-featured security tool but a good starting point for understanding password handling in Python.
 
 ## 🛠️ Technologies
 - **Python**:	Main programming language
